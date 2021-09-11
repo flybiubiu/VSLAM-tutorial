@@ -3,11 +3,11 @@
 ## About
 
 1. 本仓库在原repo的基础上加了自己的习题答案和笔记，可能还有其他东西吧
-2. 原repo链接：https://github.com/gaoxiang12/slambook2.git，https://github.com/gaoxiang12/slambook-en.git，致敬。
+2. 原repo链接，致敬
+   1. https://github.com/gaoxiang12/slambook2.git
+   2. https://github.com/gaoxiang12/slambook-en.git
 
 ## Slambook2
-
-![titlepage](./figures/title.png)
 
 Welcome to Slambook 2nd Edition! This is the codebase of our book. Here are some relavant links if you need them: 
 - [Our book at jd.com](https://item.jd.com/12666058.html)
