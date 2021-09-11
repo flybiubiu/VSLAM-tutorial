@@ -1,4 +1,12 @@
+# VSLAM-tutorial: Official Code, Answers & Notes
+
+## About
+
+1. 本仓库在原repo的基础上加了自己的习题答案和笔记，可能还有其他东西吧
+2. 原repo链接：https://github.com/gaoxiang12/slambook2.git，https://github.com/gaoxiang12/slambook-en.git，致敬。
+
 ## Slambook2
+
 ![titlepage](./figures/title.png)
 
 Welcome to Slambook 2nd Edition! This is the codebase of our book. Here are some relavant links if you need them: 
@@ -15,7 +23,6 @@ Hope you like this book.
 
 BaiduYun backup link in case your github is very slow (common in China): [here](https://pan.baidu.com/s/1XQwpnDb3BOvxXZhL-03p3w)
 
----
 ## 视觉SLAM十四讲：从理论到实践 第二版
 欢迎来到视觉SLAM十四讲：从理论到实践。这里存放本书对应的代码文件。以下是一些可能对你有用的链接：
 - [京东书籍链接](https://item.jd.com/12666058.html)
