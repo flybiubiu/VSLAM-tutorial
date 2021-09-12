@@ -34,3 +34,6 @@
 *cmake-build-*
 *.idea
 **build**
+
+# Papers
+paper/
