@@ -37,3 +37,6 @@
 
 # Papers
 paper/
+
+# Macos
+.DS_Store
