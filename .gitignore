@@ -40,3 +40,6 @@ paper/
 
 # Macos
 .DS_Store
+
+# Editor & IDE
+.vscode
