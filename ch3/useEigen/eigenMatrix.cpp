@@ -113,5 +113,18 @@ int main(int argc, char **argv) {
        << 1000 * (clock() - time_stt) / (double) CLOCKS_PER_SEC << "ms" << endl;
   cout << "x = " << x.transpose() << endl;
 
+  // for answers/3.md
+  cout << "-----------------answers/3.md-----------------" << endl;
+  Matrix<double, 100, 100> matrix_large = MatrixXd::Random(100, 100);
+  Matrix<double, 3, 3> matrix_small = Matrix3d::Zero();
+  cout << "matrix_small initial value = \n" << matrix_small << endl;
+  for (int i = 0; i < 3; i++){
+       for (int j = 0; j < 3; j++){
+            matrix_small(i, j) = matrix_large(i, j);
+       }
+  }
+  cout << "matrix_small processed value = \n" << matrix_small << endl;
+
+
   return 0;
 }
